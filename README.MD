@@ -8,10 +8,17 @@
 ### 2、Running ReactNative Application
 
     yarn install
-    # or npm install
+    # or 
+    # npm install
+
+
+    # optional:maybe
+    # cd ios && pod install
+
 
     # ios
     react-native run-ios
+
 
     # andorid
     react-native run-android
