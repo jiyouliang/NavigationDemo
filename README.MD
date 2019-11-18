@@ -12,11 +12,6 @@
 
     # ios
     react-native run-ios
-    # or
-    # react-native run-ios --simulator="ios device name"
-
 
     # andorid
     react-native run-android
-    # or
-    # react-native run-android --deviceId your device id
